@@ -1,0 +1,928 @@
+<page>
+    <title>Lightsaber</title>
+    <ns>0</ns>
+    <id>453006</id>
+    <revision>
+      <id>7990644</id>
+      <parentid>7988931</parentid>
+      <timestamp>2018-12-01T22:02:10Z</timestamp>
+      <contributor>
+        <username>Lewisr</username>
+        <id>27768064</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="60880">{{Eras}}
+{{Citation}}
+{{Cleanup}}
+{{Update|[[Darth Vader: Dark Lord of the Sith 1: The Chosen One, Part I]], [[Star Wars Lightsabers: A Guide to Weapons of the Force]]}}
+{{Weapon
+|image=[[File:Lukesaberanh.png]]
+|name=Lightsaber
+|manufacturer=Self-built&lt;ref name=&quot;A Test of Strength&quot;&gt;{{TCW|A Test of Strength}}&lt;/ref&gt;
+|model=*Standard-hilt lightsaber
+*[[Double-bladed lightsaber]]&lt;ref name=&quot;TPM Story Gallery&quot;&gt;{{SW|url=films/star-wars-episode-1-the-phantom-manace-story-gallery|text=''Star Wars Episode I: The Phantom Menace'' Story Gallery|archivedate=20170807071000}}&lt;/ref&gt;
+*[[Double-bladed spinning lightsaber]]&lt;ref name=&quot;Visual Guide&quot;&gt;''[[Star Wars Rebels: The Visual Guide]]''&lt;/ref&gt;
+*[[Dual-phase lightsaber]]&lt;ref name=&quot;Lightsabers&quot;&gt;''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''&lt;/ref&gt;
+*[[Cane lightsaber]]&lt;ref name=&quot;SWVE&quot;&gt;''[[Star Wars: The Visual Encyclopedia]]''&lt;/ref&gt;
+*[[Crossguard lightsaber]]&lt;ref name=&quot;TFA VD&quot;&gt;''[[Star Wars: The Force Awakens: The Visual Dictionary]]''&lt;/ref&gt;
+*[[Curved-hilt lightsaber]]&lt;ref name=&quot;Databank 1&quot;&gt;{{Databank|count-dookus-lightsaber|Count Dooku's Lightsaber|archivedate=20170504152745}}&lt;/ref&gt;
+*[[Lightsaber pistol]]&lt;ref name=&quot;Path of the Jedi&quot;&gt;{{Rebels|Path of the Jedi}}&lt;/ref&gt;
+*[[Lightsaber rifle]]&lt;ref name=&quot;Dying Light&quot;&gt;''[[Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III]]''&lt;/ref&gt;
+*[[Lightsaber pike]]&lt;ref name=&quot;Wrong Jedi&quot;&gt;{{SW|url=tv-shows/clone-wars/the-wrong-jedi-episode-guide|text=&quot;The Wrong Jedi&quot; Episode Guide - ''The Clone Wars''}}&lt;/ref&gt;
+*[[Proto-saber]]&lt;ref name=&quot;Star Wars Show&quot;&gt;{{SWYoutube|K5Q_ub4AIVQ|Inside Secrets of the Empire with David S. Goyer, the New runDisney Dark Side Medals, and More!}}&lt;/ref&gt;
+*[[Training lightsaber]]&lt;ref name=&quot;Jedi databank&quot;&gt;{{SWE|groups|jediorder|Jedi Order}}&lt;/ref&gt;
+*[[Shoto lightsaber]]&lt;ref name=&quot;Beginnings&quot;&gt;''[[Star Wars Journeys: Beginnings]]''&lt;/ref&gt;
+|type=Melee weapon
+|culture=
+|creators=[[Jedi]]&lt;ref name=&quot;Star Wars 9&quot;&gt;''[[Star Wars 9: Showdown on the Smuggler's Moon, Part II]]''&lt;/ref&gt;
+|created=
+|destroyed=
+|discovered=
+|owners=
+|locations=
+|cost=20,000&lt;ref name=&quot;Lightsaber Lost&quot;&gt;{{TCW|Lightsaber Lost}}&lt;/ref&gt; to 500,000 [[credit]]s {{C|[[Clone Wars]]}}&lt;ref name=&quot;MIA Trivia&quot;&gt;{{SW|url=tv-shows/clone-wars/missing-in-action-trivia-gallery|text=&quot;Missing in Action&quot; Trivia Gallery}}; image #9 {{C|of 13}}&lt;/ref&gt;
+|value=
+|shape=Cylindrical hilt
+|size=Typically hand-held
+|color=*[[Color|Black]] ([[darksaber]])&lt;ref name=&quot;The Mandalore Plot&quot;&gt;{{TCW|The Mandalore Plot}}&lt;/ref&gt;
+*Blue&lt;ref name=&quot;Episode IV&quot;&gt;[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']]&lt;/ref&gt;
+**Light blue&lt;!--Please do not change without first citing official confirmation. The color is based on text-based confirmation, which is more trustworthy than visual viewer interpretation.--&gt;&lt;ref name=&quot;Lightsaber Lost&quot; /&gt;&lt;ref name=&quot;FB&quot;&gt;{{FacebookCite|author=[[Dave Filoni]]|dateposted=2011-03-23|timeposted=17:57|description=Q&amp;A|link=notes/dave-filoni/qa/10150219391017571|archive=https://web.archive.org/web/20160101103626/https://www.facebook.com/notes/dave-filoni/qa/10150219391017571|dateaccessed=|timeaccessed=|archivedate=2016-01-01|image=File:DaveFiloniTCWLightsaber.png}}&lt;/ref&gt;
+*Green&lt;ref name=&quot;Episode VI&quot;&gt;[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]&lt;/ref&gt;
+**Yellow-green&lt;!--Please do not change without first citing official confirmation. The color is based on text-based confirmation, which is more trustworthy than visual viewer interpretation.--&gt;&lt;ref name=&quot;Overlords&quot;&gt;{{TCW|Overlords}}&lt;/ref&gt;&lt;ref name=&quot;FB&quot;&gt;[http://www.facebook.com/notes/dave-filoni/qa/10150219391017571 Dave Filoni FaceBook Q&amp;A]&lt;/ref&gt;
+*Purple&lt;ref name=&quot;Episode II&quot;&gt;[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]&lt;/ref&gt;
+*Red&lt;ref name=&quot;Episode IV&quot; /&gt;
+*White&lt;ref name=&quot;TFOTF&quot;&gt;{{Rebels|The Future of the Force}}&lt;/ref&gt;&lt;ref name=&quot;Fire Recon&quot;&gt;{{SW|url=video/rebels-recon-inside-fire-across-the-galaxy|text=Rebels Recon: Inside &quot;Fire Across the Galaxy&quot;}}&lt;/ref&gt;
+*Yellow&lt;ref name=&quot;The Wrong Jedi&quot;&gt;{{TCW|The Wrong Jedi}}&lt;/ref&gt;
+|material=*Hilt usually metallic
+*A [[kyber crystal]] inside the hilt&lt;ref name=&quot;Lightsaber Databank&quot;&gt;{{Databank|lightsaber-crystal|Lightsaber crystal}}&lt;/ref&gt;&lt;ref name=&quot;Pablo Hidalgo Tweet&quot;&gt;{{Twitter|pablohidalgo|status/678275796058771456|[[Pablo Hidalgo]]|quote=No, the synthetic crystal thing is Legends. Maul. Sidious. Vader. All those were kyber crystals.|noimage=}}&lt;/ref&gt;
+|length=
+|width=
+|diam=
+|height=
+|weight=
+|protection=
+|crew=
+|capacity=
+|range=
+|inscription=
+|markings=
+|purpose=*[[Lightsaber combat|Melee combat]]
+*Defense
+|heritage=
+|era=
+|affiliation=*[[Jedi Order]]&lt;ref name=&quot;Lightsaber Databank&quot;&gt;{{Databank|lightsaber|Lightsaber}}&lt;/ref&gt;
+*[[Sith]]&lt;ref name=&quot;Sith Databank&quot;&gt;{{Databank|sith|Sith}}&lt;/ref&gt;
+*[[Ordu Aspectu]]&lt;ref name=&quot;Doctor Aphra 2&quot;&gt;''[[Doctor Aphra 2: Aphra, Part II]]''&lt;/ref&gt;
+*[[Galactic Empire]]&lt;ref name=&quot;Visual Guide&quot; /&gt;
+**[[Inquisitorius]]&lt;ref name=&quot;Visual Guide&quot; /&gt;
+*[[Alliance to Restore the Republic]]&lt;ref name=&quot;Episode IV&quot; /&gt;
+**[[Leia Organa's team]]&lt;ref name=&quot;Star Wars 1&quot;&gt;''[[Star Wars 1: Skywalker Strikes]]''&lt;/ref&gt;
+**[[Endor strike team]]&lt;ref name=&quot;Episode VI&quot; /&gt;
+**[[Rogue Squadron]]&lt;ref name=&quot;Episode V&quot;&gt;[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]&lt;/ref&gt;
+*[[Acolytes of the Beyond]]&lt;ref name=&quot;Aftermath&quot; /&gt;
+*[[Resistance]]&lt;ref name=&quot;Episode VII&quot;&gt;[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]&lt;/ref&gt;
+*[[First Order]]&lt;ref name=&quot;Episode VII&quot; /&gt;
+*[[Knights of Ren]]&lt;ref name=&quot;Episode VII&quot; /&gt;}}
+{{Quote|This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster. An elegant weapon for a more civilized age.|[[Obi-Wan Kenobi]]|Star Wars: Episode IV A New Hope}}
+The '''lightsaber''', sometimes referred to as a '''laser sword''', was a weapon used by the [[Jedi]], the [[Sith]], and other [[Force-sensitive]]s. Lightsabers consist of a [[plasma]] blade, powered by a [[kyber crystal]], that was emitted from a usually metal hilt and could be shut off at will. It was a weapon that required skill and training, and was greatly enhanced when used in conjunction with [[the Force]]. Though also used by the Sith, the lightsaber was synonymous with the Jedi, with some in [[the galaxy]] believing only Jedi could use lightsabers.
+
+Lightsabers were generally used for both [[Lightsaber combat|offense]] and defense. A lightsaber could cut through virtually anything, from enemies to blast doors. The only ways to block the incoming attack of a lightsaber was with a weapon made with material that conducted energy, such as an [[electrostaff]], [[Z6 riot control baton]], some rare metals or simply another lightsaber. When used defensively, a Force-sensitive could deflect [[blaster]] bolts with a lightsaber, and with skill, could even reflect the shots back toward the shooter or some other target. Experienced Jedi could even employ their lightsabers to absorb [[Force lightning]]. Most practitioners used one single-bladed lightsaber, though some used [[double-bladed lightsaber]]s or even multiple lightsabers at once.
+
+Lightsaber combat was divided into seven Forms: [[Form I]], [[Form II]], [[Form III]], [[Form IV]], [[Form V]], [[Form VI]], and [[Form VII]].
+
+==History==
+{{Quote|This weapon is your life!|Obi-Wan Kenobi, to Anakin Skywalker|Star Wars: Episode II Attack of the Clones}}
+Lightsabers were used thousands of years before the age of the Republic, in the [[Great Scourge of Malachor|Great Scourge]] of [[Malachor]]. They were also used in the [[Battles of Rashfond]] and the [[Peacekeeping of Parliock]].{{Fact}} The [[proto-saber]] was an ancient type of prototype lightsaber.&lt;ref name=&quot;Star Wars Show&quot; /&gt;
+
+Lightsabers took on a more prominent role in galactic affairs as the [[Clone Wars]] came to pass. Jedi, previously peacekeepers, became [[Jedi General]]s of the [[Grand Army of the Republic]], and thus began using their lightsabers more often than they had in their role of peacekeeping.{{Fact}}
+
+As the Clone Wars ended, and the Jedi Purge took place, lightsabers became a rarity in the galaxy, as the Jedi who once used them were greatly reduced in number and did not use their weapons as often for fear of drawing attention. For the majority of the reign of the Empire, the only lightsaber that was prominently used was that of [[Anakin Skywalker|Darth Vader]], and, in its waning years, that of [[Luke Skywalker]].{{Fact}}
+
+After the Empire was defeated, Luke began training a new generation of Jedi. These, however, were massacred by [[Kylo Ren]] and the Knights of Ren, once again leading to a time where the only prominent lightsaber user was a darksider.{{Fact}}
+
+==Mechanics and specifications==
+===Mechanics===
+{{Quote|From the [[Battles of Rashfond]], to the [[Peacekeeping of Parliock]], to our very own Clone Wars, the lightsaber is a Jedi's only true ally. But how do they work? Hmm? Yes, you have brought me crystals, but they're all useless unless you give them ''life''.|Huyang, to a class of Jedi younglings|A Test of Strength}}
+[[File:Lighsaberkylo.png|left|thumb|120px|The inner workings of Kylo Ren's lightsaber.]]
+Metal was usually chosen to make up the hilt, but a casing carved from the [[Brylark tree]], wood that was strong as metal, would also work.&lt;ref name=&quot;ATOS&quot;&gt;{{TCW|A Test of Strength}}&lt;/ref&gt; Some hilts were even crafted of gems.&lt;ref name=&quot;Dark Disciple&quot;&gt;''[[Dark Disciple]]''&lt;/ref&gt; The weapon drew power from an appropriately-sized power cell.&lt;ref name=&quot;Path of the Jedi&quot; /&gt; Parts that would work to make a lightsaber include modulation circuits and an energy gate. Ones that were necessary include a blade emitter shroud, the emitter matrix and some type of activator to turn the weapon on and off. Other parts that could be added include handgrip ridges and a blade length adjuster.&lt;ref name=&quot;Path of the Jedi&quot; /&gt;&lt;ref name=&quot;Visual Guide&quot; /&gt; Some lightsabers also featured a non-lethal low-power setting used for training.&lt;ref name=&quot;Chopper Base&quot;&gt;{{Rebels|The Mystery of Chopper Base}}&lt;/ref&gt; Single-bladed lightsabers usually had a belt ring so they could be hung from a belt hook, or a wheel-shaped attachment that slotted into a matching belt clip on the owner's belt when not in use.&lt;ref name=&quot;Episode I&quot;&gt;[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]&lt;/ref&gt;&lt;ref name=&quot;Episode II&quot; /&gt;&lt;ref name=&quot;Episode III&quot;&gt;[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]&lt;/ref&gt;&lt;ref&gt;[[Star Wars Rebels: Spark of Rebellion]]&lt;/ref&gt;&lt;ref name=&quot;Path of the Jedi&quot; /&gt;
+
+During assembly, it was important to not accidentally invert the emitter matrix; when activated the lightsaber's power grid would backfire. At best this could cause the blade to quickly short out, but if it was left on, the faulty weapon would violently explode, potentially killing those in close proximity.&lt;ref name=&quot;ATOS&quot; /&gt;
+
+Specially designed lightsabers could even use unstable crystals, such as [[Kylo Ren's lightsaber]], which featured two laterally facing vents designed to divert excess energy away from the cracked crystal and keep the lightsaber stable.&lt;ref name=&quot;TFA VD&quot; /&gt;
+
+On the aquatic planet of [[Mon Cala]], the Jedi [[Kit Fisto]], [[Obi-Wan Kenobi]], Anakin Skywalker and [[Ahsoka Tano]] were all able to use their lightsabers underwater with no ill effects.&lt;ref name=&quot;Water War&quot;&gt;{{TCW|Water War}}&lt;/ref&gt; Whilst in areas of low light, a lightsaber could easily function as a light source, demonstrated by Jedi Knights Anakin Skywalker, Jedi Masters [[Yoda]] and Obi-Wan Kenobi, and [[Savage Opress]].{{Fact}}
+
+===Cutting power===
+{{Quote|It's heavier than I thought.&quot;&lt;br&gt;&quot;Energy constantly flows through the crystal. You're not fighting with a simple blade as much as you are directing a current of power.|[[Sabine Wren]] and [[Kanan Jarrus]] on the [[Darksaber]]|Trials of the Darksaber}}
+[[File:Jedi cutting door.png|thumb|250px|[[Qui-Gon Jinn]] using his lightsaber to cut through one of the ''[[Saak'ak]]''&lt;nowiki&gt;'&lt;/nowiki&gt;s [[blast door]]s.]] The power of the energy blade was so great that it could cut through almost anything. One important note about lightsaber wounds was that they rarely bled profusely, even when a limb had been severed. This was because the energy blade cauterized the wound as it passed, and thus even a severe wound did not tend to bleed heavily.{{Fact}}
+
+===Lightsaber-resistant materials===
+Aside from the blade of another lightsaber, there were rare materials that could withstand a lightsaber blade:
+*[[Zillo Beast]] hide could deflect lightsaber strikes, but this material was exceedingly rare due to the species' extinction.
+*[[Beskar|Mandalorian Iron]] was specially crafted steel from the warrior planet of Mandalore and could provide protection against slashing&lt;ref name=&quot;Legacy of Mandalore&quot;&gt;{{Rebels|Legacy of Mandalore}}&lt;/ref&gt; or glancing blows.&lt;ref name=&quot;Star Wars 5&quot;&gt;''[[Star Wars 5: Skywalker Strikes, Part V]]''&lt;/ref&gt;
+*The armor of the [[Elite Praetorian Guard#Equipment and training|Elite Praetorian Guard]] was able to resist lightsaber strikes, with the gauntlets being capable of parrying one directly. However, a direct thrust or stab could still penetrate the armor.
+*[[Cortosis]] armor, made by specially weaving cortosis fibers within a protective matrix, was able to redirect a lightsaber's energy into itself which would cause the lightsaber's blade to temporarily shut off upon contact with the armor.&lt;ref name=&quot;Thrawn: Alliances&quot;&gt;''[[Thrawn: Alliances]]''&lt;/ref&gt;
+
+==Variations==
+[[File:Qui-Gon Jinns lightsaber - SW Card Trader.png|thumb|[[Qui-Gon Jinn's lightsaber|Qui-Gon Jinn's standard lightsaber]]]]
+'''Standard lightsaber'''
+:The standard lightsaber consisted of a straight hilt approximately 20 to 30 centimeters long. As it was the standard make, it has no defining features other than details on individual hilts, as each weapon was often self-fabricated by the wielder and customized to suit their specifications.{{Fact}}
+{{Clear}}
+
+[[File:Darth Maul's Lightsaber.jpg|thumb|right|150px|[[Darth Maul's double-bladed lightsaber]]]]
+'''Double-bladed lightsaber'''
+{{Main|Double-bladed lightsaber}}
+:Also referred to as saberstaffs, double-bladed lightsabers consisted of a single hilt that projected a blade from both ends, resulting in a deadly staff-like weapon. Most saberstaff hilts were of increased length, as they usually consisted of two separate lightsabers connected at the pommels.{{Fact}}
+{{Clear}}
+
+[[File:Grand inquisitor lightsaber.png|thumb|150px|[[The Grand Inquisitor's lightsaber|The Grand Inquisitor's double-bladed spinning lightsaber]]]]
+'''Double-bladed spinning lightsaber'''
+{{Main|Double-bladed spinning lightsaber}}
+:Similar to the saberstaff, a double-bladed spinning lightsaber consists of a blade from each end of the hilt. However, the hilt was as long as a single-bladed lightsaber, with a circular rim that, when activated, could spin the blades along a track.{{Fact}}
+{{Clear}}
+
+[[File:DarthVaderSaber.jpg|thumb|right|150px|[[Darth Vader's lightsaber|Darth Vader's dual-phase lightsaber]]]]
+'''Dual-phase lightsaber'''
+{{Main|Dual-phase lightsaber}}
+:A dual-phase lightsaber contained multiple kyber crystals which allowed its blade length to be extended or shortened in the middle of combat.{{Fact}}
+{{Clear}}
+
+[[File:Kylo Ren's lightsaber prop.jpg|thumb|175px|[[Kylo Ren's lightsaber|Kylo Ren's crossguard lightsaber]]]]
+'''Crossguard lightsaber'''
+{{Main|Crossguard lightsaber}}
+:An ancient design dating back to the [[Great Scourge of Malachor]], a crossguard lightsaber consisted of a standard blade with two shorter blades perpendicular to it at the end of the hilt.{{Fact}}
+{{Clear}}
+
+[[File:DookuSaber-MR.jpg|thumb|right|175px|[[Dooku's lightsaber|Darth Tyranus's curved-hilt lightsaber]]]]
+'''Curved-hilt lightsaber'''
+{{Main|Curved-hilt lightsaber}}
+:Curved-hilt lightsabers were of a design which featured a hilt with a built in curve. This was usually done to allow the hilt to fit better into the palm, facilitating the use of one-handed fighting styles such as [[Form II]], or to provide variable blade angle to confuse opponents.{{Fact}}
+{{Clear}}
+
+[[File:Ezra lightsaber.png|thumb|120px|[[Ezra's lightsaber|Ezra Bridger's lightsaber pistol]]]]
+'''Lightsaber pistol'''
+{{Main|Lightsaber pistol}}
+:This weapon was essentially a single bladed lightsaber with an attachment that allows it to fire blaster bolts.{{Fact}}
+{{Clear}}
+
+[[File:Lightsaber Rifle 1.png|thumb|right|150px|[[Lightsaber rifle]]]]
+'''Lightsaber rifle'''
+{{Main|Lightsaber rifle}}
+:A lightsaber rifle was a type of rifle designed to be combined with lightsaber. To work, the user would insert a standard lightsaber into a slot on top of the rifle. Once loaded the hybrid rifle could fire powerful beams of energy that were highly destructive.&lt;ref name=&quot;Dying Light&quot; /&gt;
+{{clear}}
+
+[[File:Lightsaber pike canon.png|thumb|right|150px|[[Lightsaber pike|Jedi Temple Guard lightsaber pike]]]]
+'''Lightsaber pike'''
+{{Main|Lightsaber pike}}
+:Resembling pole-arms in many respects, lightsaber pikes featured extremely long handles with somewhat shorter lightsaber blades.{{Fact}}
+{{Clear}}
+
+[[File:Maul lightsaber.png|thumb|right|120px|[[Maul's lightsaber]]]]
+'''Cane-disguised lightsaber'''
+{{Main|Cane lightsaber}}
+:The Cane disguised lightsaber was a simple variation of the standard lightsaber concealed as the head of a cane. In combat, the handle would be detached from the body of the cane and wielded normally. [[Tera Sinube]] wielded such a weapon, as did Maul, though his was a saberstaff concealed in the head of a cane.{{Fact}}
+{{Clear}}
+
+[[File:Yoda teaching.png|thumb|right|200px|Jedi Initiates practice with [[training lightsaber]]s.]]
+'''Training lightsaber'''
+{{Main|Training lightsaber}}
+:Training lightsabers were essentially regular lightsabers, only engineered with a permanent low-power setting, rather than the adjustable setting featured on standard weapons. As their name indicates, training lightsabers were used for instructional purposes, teaching initiates how to wield a lightsaber.{{Fact}}
+{{Clear}}
+
+[[File:Yodas lightsaber Databank.jpeg|thumb|200px|[[Yoda's lightsaber|Yoda's shoto-style lightsaber]]]]
+'''Shoto-style lightsaber'''
+{{Main|Shoto lightsaber}}
+:Essentially, a shoto was a short lightsaber. Featuring a shortened blade length and diminutive handle. Shotos were usually used as the secondary weapon in [[Jar'Kai|dual-blade combat]]. Shotos were also used as primary weapons by some duelists, most who did so being of diminutive size, making a full sized lightsaber impractical, though this was not always the case. [[Yoda|Master Yoda]] was an example of this.{{Fact}}
+{{Clear}}
+
+[[File:Darksaber-SWE.jpg|thumb|right|120px|The [[Darksaber]]]]
+'''Darksaber'''
+{{Main|Darksaber}}
+:This ancient lightsaber had a unique black blade that was flattened and came to a point like a traditional sword, rather than the rounded beam of more standard lightsabers.{{Fact}}
+{{Clear}}
+
+==Usage and application==
+===Combat===
+[[File:Makashi.jpg|thumb|200px|left|Anakin Skywalker and [[Count]] [[Dooku]] engage in lightsaber combat.]]
+{{Main|Lightsaber combat}}
+{{Quote|Energy constantly flows through the crystal.  You're not fighting with a simple blade as much as you are directing a current of power.  Your thoughts, your actions, they become energy.  They flow through the crystal as well and become a part of the blade.|Kanan Jarrus to Sabine Wren|Trials of the Darksaber}}
+'''Lightsaber combat''' was the preferred fighting method used by lightsaber wielders. Throughout the millennia, many combat styles were refined into the seven &quot;classic&quot; forms that serve as the standard,&lt;ref name=&quot;SWVE&quot; /&gt; and numerous other fighting methods that call for advanced levels of skill. Lightsabers were most often held with both hands during combat.&lt;ref name=&quot;Episode II&quot; /&gt;
+
+===Rituals===
+{{Main|Knighting ceremony}}
+{{Quote|By the right of the Council, by the will of the Force, Kanan Jarrus, you may rise.|An apparition of The Grand Inquisitor as a Jedi knights Kanan Jarrus|Shroud of Darkness}}
+Lightsabers were an integral part of the knighting ceremonies of the Jedi Order. During the ceremony, a Padawan would have his or her Padawan braid ritualistically severed by the presiding Jedi Master. The Master would then motion the blade near each of the Padawan's shoulders and say &quot;By the right of the Council, by the will of the Force, [Insert Padawan's name here], you may rise&quot;.{{Fact}}
+
+===Practical applications===
+Lightsabers were able to cut through most materials. The glowing plasma blade could be used as a convenient light source when necessary.{{Fact}}
+
+==Behind the scenes==
+===Early concepts===
+[[File:ST Lightsaber.png|thumb|right|200px|Early concept art of lightsabers.]]
+The usage of the lightsaber was originally inspired by many of the serials that [[George Lucas]] watched and enjoyed as a child, which featured many characters wielding swords. When he began conceiving ''[[Star Wars]]'', he wished to include swords, creating the &quot;lightsaber&quot; to allow them to better mesh with the futuristic setting.&lt;ref name=&quot;BotL&quot;&gt;''[[The Birth of the Lightsaber]]''&lt;/ref&gt;
+
+In the early incarnations of the ''Star Wars'' storyline, lightsabers were not exclusive to the Jedi and other Force-users, but were in fact very mundane. Early concept art depicts lightsabers being wielded by Rebel and Imperial soldiers alike. George Lucas later limited the lightsabers to exclusively the Jedi in order to make them feel more unusual, and heighten the mystique of the Jedi.&lt;ref name=&quot;Ldb&quot;&gt;{{DB|technology|lightsaber|Lightsaber}}&lt;/ref&gt; Also, in early drafts of the script, lightsabers were referred to as &quot;lazerswords.&quot;{{Fact}}
+
+Crystals first appear in ''Star Wars'' simply as an embedded decoration on the hilt in the original film's [[Star Wars Episode IV: A New Hope (novel)|novelization]]. Aside from this single instance, there are no crystals mentioned in any of the movies or their novelizations.&lt;ref name=&quot;E4n&quot;&gt;''[[Star Wars Episode IV: A New Hope (novel)]]''&lt;/ref&gt;
+
+===Prop design and effects===
+[[File:Graflex.jpg|thumb|left|A Graflex flash similar to the one used for Luke Skywalker's first lightsaber.]]
+During the filming of ''[[Star Wars: Episode IV A New Hope|A New Hope]]'', the [[Skywalker's lightsaber|Anakin/Luke lightsaber]] was made from a Graflex camera side-attach flash, while [[Darth Vader's lightsaber]] was made from a Micro Precision Products flash attachment. The handle grips were made with T-shaped pieces of plastic from sliding glass cabinet windows and, contrary to popular belief, were not made with rubber windshield wipers. D-rings were attached to the bottoms of the units so that they could be worn on belts. [[Obi-Wan Kenobi's lightsaber (Jedi Master)|Obi-Wan Kenobi's lightsaber]] was the most complex hilt at the time. It was assembled from parts of an Armitage Shanks Starlite model Handwheel, Browning ANM2 machine gun booster, WWI No.3 Mk.1 British Rifle Grenade and a Rolls-Royce Derwent Mk.8/Mk.9 Jet Engine Balance Pipe.{{Fact}}
+
+The lightsaber effects during the [[original trilogy]] started out in a very complicated manner. During the filming of ''A New Hope'', the blade was made of a three-sided rod covered with reflective material. The rod was then rapidly spun by a compact motor in the hilt, reflecting the lights on set and creating an in-camera glowing effect. However, these props were highly limited; they were cumbersome and fragile, often breaking during fight scenes. Also, the glowing effect was not absolute, as whenever the blade moved out of the light or pointed more directly at the camera the glow disappeared and the actual spinning rod could be seen. In order to partially compensate for this loss of the effect, the blade was rotoscoped and an animated glow was added by tracing onto a blown-up copy of the frame with pen and colored ink, one frame at a time. It was at this phase that blades were given colors, as the props were simple white rods.&lt;ref name=&quot;BotL&quot; /&gt;&lt;ref name=&quot;Ldb&quot; /&gt;
+
+[[File:Lukevaderunrotoscoped.jpg|thumb|right|[[Mark Hamill]] and [[Bob Anderson]] duel with carbon rods.]]During the filming of ''[[Star Wars: Episode V The Empire Strikes Back|The Empire Strikes Back]]'', it was decided creating an in-camera glowing effect was more trouble than it was worth, so the spinning rods were swapped for carbon rods. While these new blades were less cumbersome than before, they were still very fragile and frequently broke. However, they continued to be used for ''[[Star Wars: Episode VI Return of the Jedi|Return of the Jedi]]''.&lt;ref name=&quot;BotL&quot; /&gt;
+
+When filming began for ''[[Star Wars: Episode I The Phantom Menace|The Phantom Menace]]'', the new lightsaber blades were steel and aluminum rods, which were highly durable, but frequently bent and flexed, requiring constant replacement.&lt;ref name=&quot;TLA&quot;&gt;{{SWArchive|url=episode-i/bts/production/news19980409.html|text=The Lightsaber Armory}}&lt;/ref&gt; Despite such a drawback, these rods still saw usage during the filming of ''[[Star Wars: Episode II Attack of the Clones|Attack of the Clones]]'', as they had no alternative at the time. However, for the filming of ''[[Star Wars: Episode III Revenge of the Sith|Revenge of the Sith]]'', the blades were replaced by carbon fiber rods laminated with glass and plastic. These new props were highly durable and didn't flex, though they were extremely hard, often causing bruising and leaving scars. While lightsaber effects were still done by rotoscoping for the [[Prequel trilogy|prequels]], they were done digitally, rather than by hand.&lt;ref name=&quot;Ldb&quot; /&gt;
+
+For ''[[Star Wars: Episode VII The Force Awakens|The Force Awakens]]'', the lightsaber props glowed, using a similar effect used in ''Attack of the Clones'' during the fight between Anakin Skywalker and Count Dooku. In behind the scenes footage, it was revealed that the actors were using blades similar to the ones made by [[Master Replicas]]. This not only added to the environmental realism that was desired, but also immersed the actors in the lightsaber experience, building on the performance and convincing nature of the lightsaber effect.&lt;ref&gt;http://www.dailymotion.com/video/x3mazzy&lt;/ref&gt;
+
+===Colors===
+Lightsabers depicted in the first two released films, ''A New Hope'' and ''The Empire Strikes Back'', had blades that were colored either blue (for the Jedi) or red (for the Sith). This color difference was a decision during post-production when the lightsaber blades were being rotoscoped, as the original blades were simply white. In ''Return of the Jedi'', Luke's [[Luke Skywalker's green lightsaber|newly-constructed lightsaber]] was colored blue during the initial editing of the film, and appears so in both an early movie trailer and the official theatrical posters, but in the final film, it was ultimately colored green in order to better stand out against the blue sky of Tatooine in outdoor scenes and to make it more obvious to the audience that the new lightsaber was different from Luke's one in ''The Empire Strikes Back''. It also appeared as green in re-release posters.{{Fact}}
+
+Both green and blue became standard blade colors for Jedi lightsabers in the ''Star Wars'' prequel trilogy. In the same regard, red became the standard Sith lightsaber. [[Mace Windu]]'s [[Mace Windu's lightsaber|purple lightsaber]], as first seen in ''Attack of the Clones'', was a personal request from actor [[Samuel L. Jackson]] as a way to make his character stand out among other Jedi. Jackson's favorite color is purple and he frequently requests the characters he plays to use an item of the color in his movies. In addition, there are yellow, yellow-green, light-blue, black and white blades, as seen in ''[[Star Wars: The Clone Wars (TV series)|The Clone Wars]]'' and ''[[Star Wars Rebels|Rebels]]'' animated series.{{Fact}}
+
+===Choreography===
+[[File:Theed duel stunts 1.jpg|left|thumb|200px|[[Ray Park]] practices dueling with the stunt doubles of [[Liam Neeson]] and [[Ewan McGregor]].]]
+While the usage of lightsabers was originally inspired by rapiers featured in the old serials George Lucas enjoyed, the final choreography in ''A New Hope'' looked nothing like fencing. As Jedi and their Sith counterparts were heavily inspired by [[Wikipedia:Samurai|samurai]], the fighting styles utilized were based more on [[Wikipedia:Kendo|kendo]].&lt;ref name=&quot;EoD&quot;&gt;''[[Empire of Dreams]]''&lt;/ref&gt; The slower, more strength-oriented moves of kendo used in the Obi-Wan/Vader duel also helped mesh with Lucas' concept that it was a battle between what were essentially two old men.&lt;ref name=&quot;BotL&quot; /&gt;
+
+During the filming of ''The Empire Strikes Back'', Lucas began ramping up the speed of the duels, making them &quot;faster and more intense,&quot; the idea being that Luke Skywalker was becoming increasingly proficient with the weapon.&lt;ref name=&quot;BotL&quot; /&gt; Also, rather than utilize [[David Prowse]], the actor within the Darth Vader costume, for the duels, they instead had professional swordsman [[Bob Anderson]] perform the fights, due to Prowse's tendency to repeatedly break the fragile prop blades. Anderson continued to serve as Prowse's fighting double during the filming of ''Return of the Jedi''.
+
+When filming began for ''The Phantom Menace'', the new stunt coordinator [[Nick Gillard]] ramped up the speed and agility the characters demonstrated in lightsaber duels, the idea being that the prequels took place when the Jedi Order was in &quot;full flower,&quot; at least in terms of combat techniques.&lt;ref name=&quot;BotL&quot; /&gt; Gillard was careful to avoid giving the fight scenes a choreographed look, drawing upon his extensive knowledge of martial arts to create the moves.&lt;ref name=&quot;JSp&quot;&gt;{{SWArchive|url=episode-i/bts/production/f19980521/index.html|text=Jedi Swordplay}}&lt;/ref&gt; The end result was a very fast-paced style of fighting, which he described as being like a chess game between grand masters, with every move being a check. This style of choreography was continued on throughout the prequel trilogy.&lt;ref name=&quot;JSp&quot; /&gt;
+
+In the choreography, the actors had to know how to fence so they could excel in the lightsaber duels. In ''The Force Awakens'', actors such as [[John Boyega]] (who played [[Finn]]) had to do fighting and fencing.{{Fact}}
+
+==Appearances==
+{{Scroll box|content=
+*''[[Star Wars: Force Arena]]''
+*''[[Star Wars: Galactic Defense]]''
+*''[[Star Wars 26: Yoda's Secret War, Part I]]'' {{Co}}
+*''[[Star Wars 27: Yoda's Secret War, Part II]]'' {{Co}}
+*''[[Star Wars 28: Yoda's Secret War, Part III]]''
+*''[[Star Wars 29: Yoda's Secret War, Part IV]]''
+*''[[Star Wars 30: Yoda's Secret War, Part V]]''
+*''[[Darth Maul, Part I]]''
+*''[[Darth Maul, Part II]]''
+*''[[Darth Maul, Part III]]''
+*''[[Darth Maul, Part IV]]''
+*''[[Darth Maul, Part V]]''
+*''[[Age of Republic: Darth Maul 1]]''
+*''[[Age of Republic: Qui-Gon Jinn 1]]''
+*[[Star Wars: Episode I The Phantom Menace|''Star Wars'': Episode I ''The Phantom Menace'']]
+*[[The Phantom Menace (Golden Book)|''The Phantom Menace'' Golden Book]]
+*''[[Star Wars Journeys: The Phantom Menace]]''
+*''[[The Prequel Trilogy Stories]]''
+*''[[Star Wars: The Prequel Trilogy – A Graphic Novel]]''
+*''[[Star Wars Journeys: Beginnings]]''
+*''[[Star Wars Battlefront II]]''
+*''[[Obi-Wan &amp; Anakin, Part I]]''
+*''[[Obi-Wan &amp; Anakin, Part II]]''
+*''[[Obi-Wan &amp; Anakin, Part III]]''
+*''[[Obi-Wan &amp; Anakin, Part IV]]''
+*''[[Obi-Wan &amp; Anakin, Part V]]''
+*''[[Age of Republic: Obi-Wan Kenobi 1]]''
+*''[[Choose Your Destiny: An Obi-Wan and Anakin Adventure]]''
+*[[Star Wars: Episode II Attack of the Clones|''Star Wars'': Episode II ''Attack of the Clones'']]
+*{{IDWAdventuresCite|1|[[Tales from Wild Space: Stop, Thief!]]}}
+*''[[Jedi of the Republic&amp;mdash;Mace Windu, Part I]]''
+*''[[Jedi of the Republic&amp;mdash;Mace Windu, Part II]]''
+*''[[Jedi of the Republic&amp;mdash;Mace Windu, Part III]]''
+*''[[Jedi of the Republic&amp;mdash;Mace Windu, Part IV]]''
+*''[[Jedi of the Republic&amp;mdash;Mace Windu, Part V]]''
+*{{TCW|Cat and Mouse}}
+*{{TCW|The Hidden Enemy}}
+*[[Star Wars: The Clone Wars (film)|''Star Wars: The Clone Wars'' film]]
+*{{TCW|Clone Cadets}} {{C|Appears in Newsreel}}
+*{{TCW|Supply Lines}}
+*{{TCW|Ambush}}
+*{{TCW|Rising Malevolence|Rising ''Malevolence''}}
+*{{TCW|Shadow of Malevolence|Shadow of ''Malevolence''}}
+*{{TCW|Destroy Malevolence|Destroy ''Malevolence''}}
+*{{TCW|Rookies}}
+*{{TCW|Downfall of a Droid}}
+*{{TCW|Duel of the Droids}}
+*{{TCW|Bombad Jedi}} {{Flash}}
+*{{TCW|Cloak of Darkness}}
+*{{TCW|Lair of Grievous}}
+*{{TCW|Dooku Captured}}
+*{{TCW|The Gungan General}}
+*{{TCW|Jedi Crash}}
+*{{TCW|Defenders of Peace}}
+*{{TCW|Trespass}}
+*{{TCW|Blue Shadow Virus (episode)|Blue Shadow Virus}}
+*{{TCW|Mystery of a Thousand Moons}}
+*{{TCW|Storm Over Ryloth}}
+*{{TCW|Innocents of Ryloth}}
+*{{TCW|Liberty on Ryloth}}
+*{{IDWAdventuresCite|12|[[Tales from Wild Space: A Small Push]]}}
+*{{TCW|Holocron Heist}}
+*{{TCW|Cargo of Doom}}
+*{{TCW|Children of the Force}}
+*{{TCW|Bounty Hunters (episode)|Bounty Hunters}}
+*{{TCW|The Zillo Beast}}
+*{{TCW|The Zillo Beast Strikes Back}}
+*{{TCW|Senate Spy}}
+*{{TCW|Landing at Point Rain}}
+*{{TCW|Weapons Factory}}
+*{{TCW|Legacy of Terror}}
+*{{TCW|Brain Invaders}}
+*{{TCW|Grievous Intrigue}}
+*{{TCW|The Deserter}}
+*{{TCW|Lightsaber Lost}}
+*{{TCW|The Mandalore Plot}}
+*{{TCW|Voyage of Temptation}}
+*{{TCW|Duchess of Mandalore}}
+*{{TCW|Death Trap}}
+*{{TCW|R2 Come Home}}
+*{{TCW|Lethal Trackdown}}
+*{{TCW|Corruption}} {{Flash}}
+*{{TCW|The Academy}}
+*{{TCW|Assassin (episode)|Assassin}}
+*{{TCW|ARC Troopers}}
+*{{TCW|Sphere of Influence}}
+*{{TCW|Evil Plans}}
+*{{TCW|Hostage Crisis}}
+*{{TCW|Hunt for Ziro}}
+*{{IDWAdventuresCite|12|[[Intermission, Part I]]}}
+*{{IDWAdventuresCite|13|[[Intermission, Part II]]}}
+*''[[Forces of Destiny: Daring Adventures: Volume 2]]''
+*{{FOD|The Padawan Path}}
+*{{TCW|Heroes on Both Sides}}
+*{{TCW|Senate Murders}}
+*''[[Catalyst: A Rogue One Novel]]'' {{Mo}}
+*{{TCW|Nightsisters (episode)|Nightsisters}}
+*{{TCW|Monster}}
+*{{TCW|Witches of the Mist}}
+*{{TCW|Overlords}}
+*{{TCW|Altar of Mortis (episode)|Altar of Mortis}}
+*{{TCW|Ghosts of Mortis}}
+*{{TCW|The Citadel}}
+*{{TCW|Counterattack}}
+*{{TCW|Citadel Rescue}}
+*{{TCW|Padawan Lost}}
+*{{TCW|Wookiee Hunt}}
+*{{TCW|Water War}}
+*{{TCW|Gungan Attack}}
+*{{TCW|Prisoners}}
+*{{TCW|Shadow Warrior}}
+*{{TCW|Nomad Droids}}
+*{{TCW|Darkness on Umbara}}
+*{{TCW|The General}}
+*{{TCW|Plan of Dissent}}
+*{{TCW|Carnage of Krell}}
+*{{TCW|Kidnapped}}
+*{{TCW|Slaves of the Republic}}
+*{{TCW|Escape from Kadavo}}
+*{{TCW|A Friend in Need}}
+*{{TCW|Deception}}
+*{{TCW|Friends and Enemies}}
+*{{TCW|The Box}}
+*{{TCW|Crisis on Naboo}}
+*{{TCW|Massacre}}
+*{{TCW|Bounty (episode)|Bounty}}
+*{{TCW|Brothers}}
+*{{TCW|Revenge (episode)|Revenge}}
+*{{TCW|A War on Two Fronts}}
+*{{TCW|Front Runners}}
+*{{TCW|The Soft War}}
+*{{TCW|Tipping Points}}
+*{{TCW|The Gathering (episode)|The Gathering}}
+*{{TCW|A Test of Strength}}
+*{{TCW|Bound for Rescue}}
+*{{TCW|A Necessary Bond}}
+*{{TCW|Secret Weapons}}
+*{{TCW|A Sunny Day in the Void}} {{Flash}}
+*{{TCW|Missing in Action}} {{C|Poster only}}
+*{{TCW|Point of No Return}}
+*{{TCW|Revival (episode)|Revival}}
+*{{TCW|Eminence (episode)|Eminence}}
+*{{TCW|Shades of Reason}}
+*{{TCW|The Lawless}}
+*''[[Star Wars: Forces of Destiny—Ahsoka &amp; Padmé]]''
+*{{FOD|The Imposter Inside}}
+*{{FOD|Unexpected Company}}
+*{{FOD|Teach You, I Will}}
+*''[[Forces of Destiny: Daring Adventures: Volume 1]]''
+*{{TCW|Sabotage (episode)|Sabotage}}
+*{{TCW|The Jedi Who Knew Too Much}}
+*{{TCW|To Catch a Jedi}}
+*{{TCW|The Wrong Jedi}}
+*{{TCW|The Unknown}}
+*{{TCW|Fugitive}}
+*{{TCW|Orders}}
+*{{TCW|An Old Friend}}
+*{{TCW|The Rise of Clovis}}
+*{{TCW|Crisis at the Heart}}
+*{{TCW|The Disappeared, Part I}}
+*{{TCW|The Disappeared, Part II}}
+*{{TCW|The Lost One}}
+*{{TCW|Voices}}
+*{{TCW|Destiny (episode)|Destiny}}
+*{{TCW|Sacrifice}}
+*{{TCW|A Death on Utapau}}
+*{{TCW|In Search of the Crystal}}
+*{{TCW|Crystal Crisis}}
+*{{TCW|The Big Bang}}
+*{{TCW|The Bad Batch}} {{Flash}}
+*{{TCW|A Distant Echo}}
+*{{TCW|On the Wings of Keeradaks}}
+*{{TCW|Unfinished Business}}
+*{{InsiderCite|159|Kindred Spirits}}
+*''[[Dark Disciple]]''
+*''[[Darth Maul—Son of Dathomir, Part One]]''
+*''[[Darth Maul—Son of Dathomir, Part Two]]''
+*''[[Darth Maul—Son of Dathomir, Part Three]]''
+*''[[Darth Maul—Son of Dathomir, Part Four]]''
+*''[[Kanan 7: First Blood, Part I: The Corridors of Coruscant]]''
+*''[[Kanan 8: First Blood, Part II: The Towers of the Temple]]''
+*''[[Kanan 9: First Blood, Part III: The Canyons of Kardoa]]''
+*''[[Kanan 10: First Blood, Part IV: The Mesas of Mygeeto]]''
+*''[[Kanan 11: First Blood, Part V: The Fog of War]]''
+*[[Star Wars: The Clone Wars (revival)|''Star Wars: The Clone Wars'' revival]]
+*[[Star Wars: Episode III Revenge of the Sith|''Star Wars'': Episode III ''Revenge of the Sith'']]
+*''[[Kanan 1: The Last Padawan, Part I: Fight]]''
+*''[[Kanan 2: The Last Padawan, Part II: Flight]]''
+*''[[Darth Vader: Dark Lord of the Sith 1: The Chosen One, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 2: The Chosen One, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 3: The Chosen One, Part III]]''
+*''[[Darth Vader: Dark Lord of the Sith 4: The Chosen One, Part IV]]''
+*''[[Darth Vader: Dark Lord of the Sith 5: The Chosen One, Part V]]''
+*''[[Darth Vader: Dark Lord of the Sith 6: The Chosen One, Part VI]]''
+*''[[Darth Vader: Dark Lord of the Sith 7: The Dying Light, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 8: The Dying Light, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 9: The Dying Light, Part III]]''
+*''[[Darth Vader: Dark Lord of the Sith 10: The Dying Light, Part IV]]''
+*''[[Darth Vader: Dark Lord of the Sith 11: The Rule of Five, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 12: The Rule of Five, Part II]]''
+*''[[Kanan 3: The Last Padawan, Part III: Pivot]]''
+*''[[Darth Vader: Dark Lord of the Sith 13: Burning Seas, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 14: Burning Seas, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 15: Burning Seas, Part III]]''
+*''[[Darth Vader: Dark Lord of the Sith 16: Burning Seas, Part IV]]''
+*''[[Darth Vader: Dark Lord of the Sith 17: Burning Seas, Part V]]''
+*''[[Darth Vader Annual 2: Technological Terror]]''
+*''[[Kanan 4: The Last Padawan, Part IV: Catch]]'' {{Mo}}
+*''[[Kanan 5: The Last Padawan, Part V: Release]]''
+*''[[Adventures in Wild Space: The Steal]]'' {{Po}}
+*''[[Adventures in Wild Space: The Dark]]'' {{Mo}}
+*''[[Adventures in Wild Space: The Rescue]]'' {{Mo}}
+*''[[Ahsoka (novel)|Ahsoka]]''
+*{{InsiderCite|157|Orientation}}
+*''[[Lords of the Sith]]''
+*''[[Tarkin (novel)|Tarkin]]''
+*''[[Darth Vader: Dark Lord of the Sith 18: Bad Ground]]''
+*''[[Darth Vader: Dark Lord of the Sith 19: Fortress Vader, Part I]]''
+*''[[Darth Vader: Dark Lord of the Sith 20: Fortress Vader, Part II]]''
+*''[[Darth Vader: Dark Lord of the Sith 22: Fortress Vader, Part IV]]''
+*''[[Darth Vader: Dark Lord of the Sith 23: Fortress Vader, Part V]]''
+*''[[Darth Vader: Dark Lord of the Sith 24: Fortress Vader, Part VI]]''
+*''[[Thrawn, Part I]]'' {{Flash}}
+*''[[A New Dawn]]''
+*''[[Star Wars 7: From the Journals of Old Ben Kenobi: The Last of His Breed|Star Wars 7: From the Journals of Old Ben Kenobi: &quot;The Last of His Breed&quot;]]''
+*''[[Lost Stars]]'' {{Mo}}
+*[[Lost Stars (webcomic)|''Lost Stars'' webcomic]]
+*''[[Star Wars 15: From the Journals of Old Ben Kenobi]]''
+*''[[Star Wars 20: From the Journals of Old Ben Kenobi]]''
+*{{InsiderCite|154|The End of History}}
+*''[[Battlefront: Twilight Company]]''
+*''[[Star Wars Rebels: Spark of Rebellion]]''
+*''[[Ezra's Wookiee Rescue]]''
+*''[[The Rebellion Begins]]''
+*[[Droids in Distress (book)|''Droids in Distress'' book]]
+*''[[The Secret Jedi: The Adventures of Kanan Jarrus: Rebel Leader]]''
+*''[[A New Hero]]''
+*{{Rebels|Rise of the Old Masters}}
+*''[[The Inquisitor's Trap]]''
+*''[[Servants of the Empire: Rebel in the Ranks]]''
+*{{Rebels|Breaking Ranks}}
+*{{SWRMCite|3|The fake Jedi}}
+*''[[Star Wars Rebels: Rebel Strike]]''
+*''[[Star Wars Rebels: Recon Missions]]''
+*{{Rebels|Empire Day (episode)|Empire Day}}
+*''[[Ezra's Duel with Danger]]''
+*{{Rebels|Gathering Forces}}
+*{{SWRMCite|5|Return of the Slavers}}
+*''[[Kanan 6: The Last Padawan, Epilogue: Haunt]]''
+*''[[Kanan 12: First Blood, Epilogue: The Ties That Bind]]''
+*{{Rebels|Path of the Jedi}}
+*''[[Kanan's Jedi Training]]''
+*''[[Sabine My Rebel Sketchbook]]''
+*{{SWRMCite|7|Sabotaged Supplies}}
+*{{Rebels|Idiot's Array (episode)|Idiot's Array}}
+*{{Rebels|Vision of Hope}}
+*{{SWRMCite|8|Ezra's Vision}}
+*''[[Servants of the Empire: The Secret Academy]]''
+*{{Rebels|Call to Action}}
+*''[[Battle to the End]]''
+*{{Rebels|Rebel Resolve}}
+*{{Rebels|Fire Across the Galaxy}}
+*{{FOD|A Disarming Lesson}}
+*{{SWRMCite|9|Senate Perspective}}
+*{{SWRMCite|12|Ocean Rescue}}
+*''[[Star Wars Rebels: The Siege of Lothal]]''
+*''[[Star Wars Rebels: Team Tactics]]''
+*{{Rebels|The Lost Commanders}}
+*{{Rebels|Relics of the Old Republic}}
+*{{Rebels|Always Two There Are}}
+*{{Rebels|Brothers of the Broken Horn}}
+*''[[Star Wars Rebels: Strike Missions]]''
+*{{Rebels|Wings of the Master}}
+*{{Rebels|Blood Sisters}}
+*{{Rebels|Stealth Strike}}
+*{{SWRMCite|15|A Day's Duty}} {{Mo}}
+*{{Rebels|The Future of the Force}}
+*{{SWRMCite|16|Ice Breaking}}
+*{{Rebels|Legacy (episode)|Legacy}}
+*{{Rebels|A Princess on Lothal}}
+*''[[Forces of Destiny: The Leia Chronicles]]'' {{Mo}}
+*{{Rebels|The Protector of Concord Dawn}}
+*{{Rebels|Legends of the Lasat}}
+*{{SWRMCite|18|Academy Cadets}}
+*{{Rebels|The Call}}
+*{{SWRMCite||The Ballad of 264}}
+*{{Rebels|Homecoming}}
+*{{SWRMCite|27|A Time to Survive}}
+*{{Rebels|The Honorable Ones}}
+*{{Rebels|Shroud of Darkness}}
+*{{SWRMCite|20|The Gangsters of Galzez}}
+*{{Rebels|The Forgotten Droid}}
+*{{Rebels|The Mystery of Chopper Base}}
+*{{SWRMCite||The Line of Duty}}
+*{{Rebels|Twilight of the Apprentice}}
+*''[[Star Wars Rebels: Special Ops]]''
+*{{IDWAdventuresCite|7|[[Endangered, Part 1]]}}
+*{{IDWAdventuresCite|8|[[Endangered, Part 2]]}}
+*''[[Star Wars Rebels: Steps Into Shadow]]''
+*{{Rebels|The Holocrons of Fate}}
+*{{Rebels|The Antilles Extraction}}
+*{{Rebels|Hera's Heroes}}
+*{{Rebels|The Last Battle}}
+*{{Rebels|Imperial Super Commandos}}
+*{{Rebels|Iron Squadron (episode)|Iron Squadron}}
+*{{Rebels|The Wynkahthu Job}}
+*{{Rebels|An Inside Man}}
+*{{Rebels|Visions and Voices}}
+*{{Rebels|Ghosts of Geonosis}}
+*{{Rebels|Warhead (episode)|Warhead}}
+*{{Rebels|Trials of the Darksaber}}
+*{{Rebels|Legacy of Mandalore}}
+*{{Rebels|Secret Cargo}}
+*{{Rebels|Double Agent Droid}}
+*{{Rebels|Twin Suns (episode)|Twin Suns}}
+*{{Rebels|Zero Hour}}
+*''[[Thrawn: Alliances]]''
+*{{FOD|Art History}}
+*''[[Star Wars Rebels: Heroes of Mandalore]]''
+*{{Rebels|In the Name of the Rebellion}}
+*{{Rebels|The Occupation}}
+*{{Rebels|Flight of the Defender}}
+*{{Rebels|Kindred}}
+*{{Rebels|Crawler Commandeers}}
+*{{Rebels|Rebel Assault}}
+*{{Rebels|Jedi Night}}
+*{{Rebels|DUME}}
+*{{Rebels|Wolves and a Door}}
+*{{Rebels|A World Between Worlds}}
+*{{Rebels|A Fool's Hope}}
+*{{Rebels|Family Reunion – and Farewell}}
+*''[[Star Wars: Secrets of the Empire]]''
+*''[[Rogue One: A Star Wars Story]]''
+*[[Rogue One: A Star Wars Story (novelization)|''Rogue One: A Star Wars Story'' novelization]]
+*''[[Star Wars: Rogue One: A Junior Novel]]''
+*''[[Rogue One Adaptation 2]]'' {{Mo}}
+*''[[Rogue One Adaptation 6]]''
+*''[[Bounty Hunt]]''
+*[[Star Wars: Episode IV A New Hope|''Star Wars'': Episode IV ''A New Hope'']] {{1st}}
+*''[[A New Hope: The Princess, the Scoundrel, and the Farm Boy]]''
+*[[Star Wars: A New Hope (paperback novel)|''Star Wars: A New Hope'' junior novelization]]
+*''[[Episode IV: A New Hope Read-Along Storybook and CD]]''
+*''[[Escape from Darth Vader]]'' {{C|Appears in final page illustration only}}
+*''[[Trapped in the Death Star!]]''
+*''[[Star Wars: Heroes Path]]''
+*''[[The Adventures of Luke Skywalker, Jedi Knight]]''
+*''[[Star Wars: The Original Trilogy – A Graphic Novel]]''
+*''[[Star Wars Battlefront]]''
+*{{Shortstory|story=Stories in the Sand|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Hologram}}
+*{{Shortstory|story=Master and Apprentice (short story)|sformatted=Master and Apprentice|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*{{Shortstory|story=We Don't Serve Their Kind Here|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=The Luckless Rodian|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=The Kloo Horn Cantina Caper|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Imo}}
+*{{Shortstory|story=Born in the Storm|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*{{Shortstory|story=Time of Death|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}}
+*{{Shortstory|story=There is Another|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*{{Shortstory|story=Palpatine (short story)|sformatted=Palpatine|book=From a Certain Point of View|bformatted=''From a Certain Point of View''}} {{Mo}}
+*{{IDWAdventuresCite|4|[[The Trouble at Tibrin]]}}
+*{{IDWAdventuresCite|5|[[The Trouble at Tibrin, Part II]]}}
+*''[[Heir to the Jedi]]''
+*''[[The Weapon of a Jedi: A Luke Skywalker Adventure]]''
+*''[[Luke and the Lost Jedi Temple]]''
+*''[[The Weapon of a Jedi (animated comic)|The Weapon of a Jedi]]''
+*''[[The Weapon of a Jedi, Part 1]]''
+*''[[The Weapon of a Jedi, Part 2]]''
+*''[[The Weapon of a Jedi, Part 3]]''
+*''[[The Weapon of a Jedi, Part 4]]''
+*''[[Star Wars Annual 4]]''
+*''[[Star Wars 1: Skywalker Strikes]]''
+*''[[Star Wars 2: Skywalker Strikes, Part II]]''
+*''[[Star Wars 3: Skywalker Strikes, Part III]]''
+*''[[Darth Vader 1: Vader]]''
+*{{Shortstory|story=Coda|book=Darth Vader 25: End of Games, Part VI}}
+*''[[Star Wars 4: Skywalker Strikes, Part IV]]''
+*''[[Darth Vader 2: Vader, Part II]]''
+*''[[Darth Vader 3: Vader, Part III]]''
+*''[[Darth Vader 4: Vader, Part IV]]''
+*''[[Star Wars 5: Skywalker Strikes, Part V]]''
+*''[[Darth Vader 5: Vader, Part V]]''
+*''[[Star Wars 6: Skywalker Strikes, Part VI]]''
+*''[[Darth Vader 6: Vader, Part VI]]''
+*''[[Star Wars 8: Showdown on the Smuggler's Moon, Part I]]''
+*''[[Star Wars 9: Showdown on the Smuggler's Moon, Part II]]''
+*''[[Star Wars 10: Showdown on the Smuggler's Moon, Part III]]''
+*''[[Star Wars 11: Showdown on the Smuggler's Moon, Part IV]]''
+*''[[Star Wars 12: Showdown on the Smuggler's Moon, Part V]]''
+*''[[Darth Vader 7: Shadows and Secrets, Part I]]''
+*''[[Darth Vader 8: Shadows and Secrets, Part II]]'' {{Co}}
+*''[[Darth Vader 9: Shadows and Secrets, Part III]]''
+*''[[Darth Vader 10: Shadows and Secrets, Part IV]]''
+*''[[Darth Vader 11: Shadows and Secrets, Part V]]''
+*''[[Darth Vader 12: Shadows and Secrets, Part VI]]''
+*''[[Darth Vader Annual 1]]''
+*''[[Vader Down, Part I]]''
+*''[[Darth Vader 13: Vader Down, Part II]]''
+*''[[Star Wars 13: Vader Down, Part III]]''
+*''[[Darth Vader 14: Vader Down, Part IV]]''
+*''[[Star Wars 14: Vader Down, Part V]]''
+*''[[Darth Vader 15: Vader Down, Part VI]]''
+*''[[Star Wars 19: Rebel Jail, Part IV]]''
+*''[[Darth Vader 16: The Shu-Torun War, Part I]]''
+*''[[Darth Vader 17: The Shu-Torun War, Part II]]''
+*''[[Darth Vader 18: The Shu-Torun War, Part III]]''
+*''[[Darth Vader 19: The Shu-Torun War, Part IV]]''
+*''[[Darth Vader 20: End of Games, Part I]]''
+*''[[Darth Vader 21: End of Games, Part II]]''
+*''[[Darth Vader 22: End of Games, Part III]]''
+*''[[Darth Vader 23: End of Games, Part IV]]''
+*''[[Darth Vader 24: End of Games, Part V]]''
+*''[[Darth Vader 25: End of Games, Part VI]]''
+*''[[Star Wars 21: The Last Flight of the Harbinger, Part I]]''
+*''[[Star Wars 23: The Last Flight of the Harbinger, Part III]]''
+*''[[Star Wars 24: The Last Flight of the Harbinger, Part IV]]''
+*''[[Star Wars 25: The Last Flight of the Harbinger, Part V]]''
+*''[[Doctor Aphra 2: Aphra, Part II]]'' {{Flash}}
+*''[[Doctor Aphra 4: Aphra, Part IV]]''
+*''[[Doctor Aphra 5: Aphra, Part V]]''
+*''[[Doctor Aphra 6: Aphra, Part VI]]''
+*''[[The Screaming Citadel, Part I]]'' {{Mo}}
+*''[[Star Wars 31: The Screaming Citadel, Part II]]'' {{Co}}
+*''[[Doctor Aphra 7: The Screaming Citadel, Part III]]''
+*''[[Star Wars 32: The Screaming Citadel, Part IV]]''
+*''[[Doctor Aphra 8: The Screaming Citadel, Part V]]''
+*''[[Star Wars 33: Rebels in the Wild]]''
+*''[[Doctor Aphra 10: The Enormous Profit, Part II]]''
+*''[[Doctor Aphra 11: The Enormous Profit, Part III]]''
+*''[[Doctor Aphra 12: The Enormous Profit, Part IV]]''
+*''[[Star Wars 37: Imperial Pride]]''
+*''[[Doctor Aphra 13: The Enormous Profit, Part V]]''
+*''[[Doctor Aphra 21: The Catastrophe Con, Part II]]'' {{C|Appears through imagination}}
+*''[[Doctor Aphra 22: The Catastrophe Con, Part III]]''
+*''[[Doctor Aphra 23: The Catastrophe Con, Part IV]]''
+*''[[Doctor Aphra 24: The Catastrophe Con, Part V]]''
+*''[[Doctor Aphra 25: The Catastrophe Con, Part VI]]''
+*{{Shortstory|story=Shu-Torun Lives|book=Star Wars 50: Hope Dies, Part I}}
+*''[[Star Wars 38: The Ashes of Jedha, Part I]]''
+*''[[Star Wars 39: The Ashes of Jedha, Part II]]''
+*''[[Star Wars 40: The Ashes of Jedha, Part III]]''
+*''[[Star Wars 41: The Ashes of Jedha, Part IV]]''
+*''[[Star Wars 42: The Ashes of Jedha, Part V]]''
+*''[[Star Wars 43: The Ashes of Jedha, Part VI]]''
+*''[[Star Wars 44: Mutiny at Mon Cala, Part I]]'' {{Mo}}
+*''[[Star Wars 45: Mutiny at Mon Cala, Part II]]''
+*''[[Star Wars 47: Mutiny at Mon Cala, Part IV]]''
+*''[[Star Wars 49: Mutiny at Mon Cala, Part VI]]'' {{Co}}
+*''[[Star Wars 53: Hope Dies, Part IV]]''
+*''[[Star Wars 54: Hope Dies, Part V]]''
+*''[[Star Wars 58: The Escape, Part III]]''
+*''[[Star Wars 60]]''
+*''[[Star Wars 61]]''
+*''[[Star Wars: The Last Jedi – The Storms of Crait 1]]''
+*''[[Star Wars: Commander]]''
+*''[[Lando, Part IV]]''
+*''[[Lando, Part V]]''
+*[[Star Wars: Episode V The Empire Strikes Back|''Star Wars'': Episode V ''The Empire Strikes Back'']]
+*''[[The Empire Strikes Back: So You Want to Be a Jedi?]]''
+*[[Star Wars: The Empire Strikes Back (paperback novel)|''Star Wars: The Empire Strikes Back'' junior novelization]]
+*''[[Episode V: The Empire Strikes Back Read-Along Storybook and CD]]''
+*''[[AT-AT Attack!]]''
+*''[[Use the Force!]]''
+*''[[Captured on Cloud City]]''
+*''[[Moving Target: A Princess Leia Adventure]]'' {{Mo}}
+*[[Star Wars: Episode VI Return of the Jedi|''Star Wars'': Episode VI ''Return of the Jedi'']]
+*''[[Return of the Jedi: Beware the Power of the Dark Side!]]''
+*[[Star Wars: Return of the Jedi (paperback novel)|''Star Wars: Return of the Jedi'' junior novelization]]
+*''[[Episode VI: Return of the Jedi Read-Along Storybook and CD]]''
+*''[[Rescue from Jabba's Palace]]''
+*''[[Ewoks Join the Fight]]''
+*''[[Shattered Empire, Part I]]''
+*{{FOD|Traps and Tribulations}}
+*''[[Aftermath]]''
+*''[[Star Wars: Uprising]]''
+*''[[Shattered Empire, Part IV]]''
+*''[[Aftermath: Life Debt]]''
+*''[[Aftermath: Empire's End]]''
+*''[[The Legends of Luke Skywalker]]''
+*{{IDWAdventuresCite|4|[[Tales from Wild Space: Mattis Makes a Stand]]}} {{C|Appears through imagination}}
+*{{Shortstory|story=All Creatures Great and Small|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I|bformatted=''Tales from a Galaxy Far, Far Away: Aliens: Volume I''}} {{Imo}}
+*{{Shortstory|story=The Crimson Corsair and the Lost Treasure of Count Dooku|book=Tales from a Galaxy Far, Far Away: Aliens: Volume I|bformatted=''Tales from a Galaxy Far, Far Away: Aliens: Volume I''}} {{Mo}}
+*''[[Before the Awakening]]'' {{Mo}}
+*''[[Poe Dameron 14: Legend Lost, Part I]]'' {{Mo}}
+*''[[Poe Dameron 25: Legend Found, Part VI]]'' {{Mo}}
+*''[[Join the Resistance: Escape from Vodran]]''
+*''[[Join the Resistance: Attack on Starkiller Base]]'' {{Mo}}
+*{{IDWAdventuresCite|3|[[Pest Control]]}}
+*[[Star Wars: Episode VII The Force Awakens|''Star Wars'': Episode VII ''The Force Awakens'']]
+*[[Star Wars: The Force Awakens (novelization)|''Star Wars: The Force Awakens'' novelization]]
+*''[[Star Wars: The Force Awakens: A Junior Novel]]''
+*''[[The Force Awakens: Rey's Story]]''
+*''[[The Force Awakens: Finn's Story]]''
+*''[[The Force Awakens Read-Along Storybook and CD]]''
+*[[The Force Awakens (Golden Book)|''The Force Awakens'' (Golden Book)]]
+*''[[Finn &amp; the First Order]]''
+*''[[Finn and Poe Team Up!]]''
+*''[[Chaos at the Castle]]''
+*''[[Star Wars: Forces of Destiny—Rey]]'' {{C|Appears through imagination}}
+*''[[Star Wars: The Force Awakens Graphic Novel Adaptation]]''
+*''[[The Force Awakens, Part I]]''
+*''[[The Force Awakens, Part II]]''
+*''[[The Force Awakens, Part III]]''
+*''[[The Force Awakens, Part IV]]''
+*''[[The Force Awakens, Part V]]''
+*''[[The Force Awakens, Part VI]]''
+*''[[Star Wars: The Force Awakens Beginner Game]]'' {{Po}}
+*''[[Captain Phasma, Part I]]''
+*{{IDWAdventuresCite|Ashcan|}} {{Flash}}
+*''[[Poe Dameron: Flight Log]]''
+*[[Star Wars: Episode VIII The Last Jedi|''Star Wars'': Episode VIII ''The Last Jedi'']]
+*''[[Star Wars: The Last Jedi: Expanded Edition]]''
+*''[[Star Wars: The Last Jedi: A Junior Novel]]''
+*[[The Last Jedi (storybook)|''The Last Jedi'' storybook]]
+*''[[The Last Jedi: Rey's Journey]]''
+*''[[The Last Jedi Adaptation 1]]''
+*''[[The Last Jedi Adaptation 3]]''
+*''[[The Last Jedi Adaptation 4]]''
+*''[[The Last Jedi Adaptation 5]]''
+*''[[The Last Jedi Adaptation 6]]''
+*''[[Chewie and the Porgs]]''
+*{{FOD|Porg Problems}}
+*''[[Poe Dameron 26: The Awakening, Part I]]''
+*''[[Poe Dameron 27: The Awakening, Part II]]''
+*{{IDWAdventuresCite|13|[[Tales from Wild Space: The Blue Brothers]]}}}}
+
+===Non-canon appearances===
+*''[[Star Wars: Galaxy of Heroes]]''
+*''[[Disney Infinity 3.0]]''
+*''[[Star Wars Epic Yarns: A New Hope]]''
+*''[[Star Wars Epic Yarns: The Empire Strikes Back]]''
+*''[[LEGO Star Wars: The Freemaker Adventures]]''
+*''[[Star Wars Epic Yarns: Return of the Jedi]]''
+*''[[LEGO Star Wars: The Force Awakens]]''
+*{{Blips|Lightsaber (episode)|Lightsaber}}
+
+==Sources==
+{{Scroll box|content=
+*{{SW|url=tv-shows/clone-wars/missing-in-action-trivia-gallery|text=&quot;Missing in Action&quot; Trivia Gallery}}; image #9 {{C|of 13}}
+*{{SWE|characters|byph|Byph}}
+*{{SWE|technology|crucible|Crucible}}
+*{{SWE|groups|jediorder|Jedi Order}}
+*{{SWE|groups|jedi-temple-guard|Jedi Temple Guard}}
+*{{SWE|technology|lightsaber|Lightsaber}}
+*{{SWE|technology|lightsaber-crystals|Lightsaber crystals}}
+*{{SWE|groups|sith|Sith}}
+*{{SW|url=video/star-wars-rebels-meet-the-inquisitor-the-empire-s-jedi-hunter|text=Star Wars Rebels: Meet the Inquisitor, the Empire's Jedi Hunter}}
+*''[[Star Wars Rebels: Meet the Rebels]]''
+*''[[Star Wars Rebels: The Visual Guide]]''
+*{{SW|url=news/introducing-star-wars-rebels-the-visual-guide|text=Introducing ''Star Wars Rebels: The Visual Guide''}}
+*{{SW|url=news/sdcc-2014-the-heroes-of-star-wars-rebels-panel-liveblog|text=SDCC 2014: &quot;The Heroes of ''Star Wars Rebels''&quot; Panel &amp;ndash; Liveblog}}
+*{{InsiderCite|152|Cowboy Jedi}}
+*{{InsiderCite|152|A Trip to the Light Side}}
+*''[[Star Wars Rebels: Beware the Inquisitor!]]''
+*''[[Star Wars Rebels: Fight the Empire]]''
+*''[[Star Wars Rebels: Rebel Power!]]''
+*{{LEGOCite|Classic|75093|Death Star Final Duel}}
+*{{LEGOCite|tfa|75104|Kylo Ren's Command Shuttle}}
+*{{LEGOCite|tfa|75139|Battle On Takodana}}
+*{{SW|url=news/swca-the-untold-clone-wars-panel-liveblog|text=SWCA: The Untold ''Clone Wars'' Panel Liveblog}}
+*''[[Star Wars Rebels Annual 2016]]''
+*''[[The Art of Star Wars: Uprising]]''
+*''[[Star Wars: The Force Awakens: The Visual Dictionary]]''
+*''[[Star Wars: The Force Awakens: New Adventures]]''
+*''[[Star Wars: ABC-3PO]]''
+*''[[Star Wars: Aliens of the Galaxy]]'' {{Po}}
+*''[[Star Wars: Complete Locations (2016)|Star Wars: Complete Locations]]''
+*''[[Star Wars Propaganda: A History of Persuasive Art in the Galaxy]]''
+*''[[Star Wars: Galactic Atlas]]''
+*''[[Star Wars: Rogue One: The Ultimate Visual Guide]]''
+*''[[Darth Vader: Sith Lord]]''
+*''[[Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away]]''
+*''[[Star Wars: Forces of Destiny: Meet the Heroes]]''
+*''[[Star Wars Look and Find (Journey to Star Wars: The Last Jedi)|Star Wars: Look and Find]]''
+*''[[Star Wars: Absolutely Everything You Need to Know, Updated and Expanded]]''
+*''[[Forces of Destiny: Tales of Hope &amp; Courage]]''
+*''[[Ghosts of Dathomir]]''
+*''[[Star Wars: The Rebel Files]]''
+*''[[Star Wars: The Last Jedi: The Visual Dictionary]]''
+*''[[Star Wars: The Last Jedi: Ultimate Sticker Collection]]''
+*''[[Star Wars: The Last Jedi Activity Book with Stickers]]''
+*''[[Star Wars: The Last Jedi: Heroes of the Galaxy]]''
+*''[[Star Wars: Lightsaber Battles]]''
+*''[[Star Wars Encyclopedia of Starfighters and Other Vehicles]]''
+*''[[Star Wars Lightsabers: A Guide to Weapons of the Force]]''
+*''[[Star Wars: The Complete Visual Dictionary, New Edition]]''
+*''[[Star Wars: Geektionary: The Galaxy From A To Z]]''
+*''[[Star Wars: Droidography]]''
+*{{ForceCollection|Nicanas Tassu|star=1}}
+*{{SW|url=databank/aat-battle-tank-history-gallery|text=AAT Battle Tank History Gallery|archivedate=20170711233332}}
+*{{Databank|adi-gallia|Adi Gallia|archivedate=20170706043936}}
+*{{Databank|wullf-yularen|Admiral Wullf Yularen|archivedate=20170404042020}} {{Po}}
+*{{Databank|agen-kolar|Agen Kolar|archivedate=20170707043140}}
+*{{Databank|ahsoka-tano|Ahsoka Tano|archivedate=20170806140940}}
+*{{Databank|ahsokas-lightsabers|Ahsoka's lightsabers|archivedate=20170815093919}}
+*{{Databank|alexsandr-kallus|Alexsandr Kallus|archiveurl=https://archive.fo/sF7cI}}
+*{{Databank|anakin-skywalker|Anakin Skywalker|archivedate=20170706054025}}
+*{{Databank|anakin-luke-and-reys-lightsaber|Anakin, Luke, and Rey's Lightsaber|archivedate=20170504204540}}
+*{{Databank|asteroid-belt-gas-refinery|Asteroid Belt Gas Refinery|archivedate=20170830105725}}
+*{{Databank|barada|Barada|archivedate=20170707054851}}
+*{{SW|url=bespin-history-gallery|text=Bespin History Gallery|archivedate=20170814025341}}
+*{{Databank|brom-titus|Brom Titus|archiveurl=https://archive.fo/NY0NI}} {{Po}}
+*{{Databank|byph|Byph|archivedate=20170605050308}}
+*{{SW|url=cloud-city-history-gallery|text=Cloud City History Gallery}}
+*{{Databank|crucible|Crucible|archivedate=20170706085234}}
+*{{Databank|darksaber|Darksaber|archivedate=20170710035845}}
+*{{Databank|darth-mauls-lightsaber|Darth Maul's Lightsaber|archivedate=20170815093800}}
+*{{Databank|darth-vaders-lightsaber|Darth Vader's lightsaber|archivedate=20170805173833}}
+*{{Databank|doctor-cornelius-evazan|Doctor Cornelius Evazan|archivedate=20161104154102}}
+*{{Databank|eeth-koth|Eeth Koth|archivedate=20170706052456}}
+*{{Databank|electrostaff|Electrostaff|archivedate=20160514033534}}
+*{{Databank|even-piell|Even Piell|archivedate=20170401034513}}
+*{{Databank|ezra-s-lightsaber|Ezra's Lightsaber|archivedate=20170504215956}}
+*{{Databank|fifth-brother-inquisitor|Fifth Brother Inquisitor|archivedate=20170702125621}}
+*{{Databank|first-order-medical-droid|First Order Medical Droid|archivedate=20180411002408}}
+*{{Databank|force-lightning|Force Lightning|archivedate=20170710190140}}
+*{{Databank|force-push|Force Push|archivedate=20170728020008}} {{Po}}
+*{{Databank|ganodi|Ganodi|archivedate=20170706044112}}
+*{{Databank|geonosis-droid-factory|Geonosis Droid Factory|archivedate=20170207180404}}
+*{{Databank|han-solo|Han Solo|archivedate=20170607051516}}
+*{{Databank|jedi-order|Jedi Order}}
+*{{Databank|jedi-temple-guard|Jedi Temple Guard}}
+*{{Databank|kanan-s-lighstaber|Kanan's Lightsaber}}
+*{{Databank|lightsaber|Lightsaber}}
+*{{Databank|lightsaber-crystal|Lightsaber crystal}}
+*{{Databank|lightsaber-pike|Lightsaber pike}}
+*{{Databank|sith|Sith}}
+*{{Databank|the-inquisitor|The Inquisitor}}
+*{{Databank|the-inquisitor-s-lightsaber|The Inquisitor's Lightsaber}}
+*{{Databank|training-remote|Training Remote}}
+*{{Databank|ahsokas-lightsabers|Ahsoka's lightsabers|archivedate=20170815093919}}
+*{{Databank|wampa|Wampa|archivedate=20141203082352}}
+*{{Databank|wat-tambor|Wat Tambor|archivedate=20170603221250}}
+*{{Databank|wookiee|Wookiee|archivedate=20140703015344}}
+*{{Databank|yoda|Yoda|archivedate=20140703043000}}
+*{{Databank|yoda-s-lightsaber|Yoda's Lightsaber|archivedate=20160116065011}}
+*{{Databank|zatt|Zatt|archivedate=20170806142149}}}}
+
+==Notes and references==
+{{Scroll box|content={{Reflist}}}}
+
+==External links==
+*{{WP}}
+
+{{Interlang
+|bg=Светлинен меч
+|cs=Světelný meč
+|da=Lyssværd
+|de=Lichtschwert
+|el=Φωτόσπαθο
+|es=Sable de luz
+|fr=Sabre laser
+|hr=Lightsaber-svjetlosni mač
+|hu=Fénykard
+|it=Spada laser
+|ja=ライトセーバー
+|ka=სინათლის ხმალი
+|ko=라이트세이버
+|la=Gladius lucifer
+|nl=Lightsaber
+|no=Lyssabel
+|pl=Miecz świetlny
+|pt=Sabre de luz
+|ru=Световой меч/Канон
+|sv=Ljussabel
+|tr=Işın kılıcı
+|uk=Світловий меч
+|zj=光剑
+|plFA=1
+}}
+
+[[Category:Lightsabers| ]]</text>
+      <sha1>c8mromw2sctpntq55j3hy9l4tcv031u</sha1>
+    </revision>
+  </page>
